@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gracasa/static/css/main.db0c663b.css",
-    "main.js": "/gracasa/static/js/main.02a620c3.js",
+    "main.js": "/gracasa/static/js/main.352d7230.js",
     "static/media/fon.svg": "/gracasa/static/media/fon.2078a2e7e12680590d04.svg",
     "index.html": "/gracasa/index.html",
     "main.db0c663b.css.map": "/gracasa/static/css/main.db0c663b.css.map",
-    "main.02a620c3.js.map": "/gracasa/static/js/main.02a620c3.js.map"
+    "main.352d7230.js.map": "/gracasa/static/js/main.352d7230.js.map"
   },
   "entrypoints": [
     "static/css/main.db0c663b.css",
-    "static/js/main.02a620c3.js"
+    "static/js/main.352d7230.js"
   ]
 }

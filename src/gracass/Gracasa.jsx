@@ -10,7 +10,7 @@ const Gracasa = () => {
                 <div className='fonSVG'>
                     <div className='fullText'>
                         <h2 className='Ftext'>
-                            гадание
+                            гадание ggg 
 
                         </h2>
                         <h2 className='Stext'>
